@@ -4,6 +4,6 @@
 - Satyaram says this is great community.
 - I am donating 1000 INR for the society.
 - I am donating 2000 INR to the society.
-- Reecent commit.
+- Recent commit.
 - To test fetch upstream
 - This is an example to make the merge conflict.
